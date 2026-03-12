@@ -1,6 +1,8 @@
+![The GTM Playbook](banner.png)
+
 # The GTM Playbook
 
-**37 Claude Code skills. 7 proven patterns. The full campaign framework.**
+**18 Claude Code skills. 7 proven patterns. The full campaign framework.**
 
 Built from live outreach campaigns to B2B service companies. Not theory — every skill, every pattern, every framework came from real sends, real replies, and real audits.
 
